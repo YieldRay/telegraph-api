@@ -4,5 +4,8 @@
     "rehype-parse": "^9.0.0",
     "remark-parse": "^11.0.0",
     "unified": "^11.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
   }
 }
